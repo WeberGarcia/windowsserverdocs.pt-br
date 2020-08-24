@@ -162,7 +162,7 @@ E aqui estão alguns recursos adicionais:
 - [Gerencie servidores e máquinas virtuais em qualquer lugar com o Windows Admin Center](https://aka.ms/WAC-Webinar2019)
 - [Como começar a usar o Windows Admin Center](https://www.youtube.com/embed/PcQj6ZklmK0)
 
-## <a name="see-how-customers-are-benefitting-from-windows-admin-center"></a>Veja como os clientes estão usando o Windows Admin Center
+## <a name="see-how-customers-are-benefitting-from-windows-admin-center"></a>Como os clientes estão usando o Windows Admin Center?
 
 |     |
 | --- |
